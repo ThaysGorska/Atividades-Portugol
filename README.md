@@ -1,1 +1,1 @@
-# Exerc-cios-Portugol
+# Exercicios-Portugol
